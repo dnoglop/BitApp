@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string-array name="estados">
+        <item>Estado</item>
+        <item>SP</item>
+        <item>RJ</item>
+        <item>MG</item>
+        <item>AM</item>
+        <item>RO</item>
+        <item>SC</item>
+        <item>MT</item>
+        <item>MS</item>
+    </string-array>
+
+    <string-array name="op">
+        <item>No local, consegue realizar ligações telefonicas?</item>
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+
+    <string-array name="sinal">
+        <item>No local possui sinal de rede?</item>
+        <item>Sem Sinal</item>
+        <item>Sinal Fraco</item>
+    </string-array>
+
+    <string-array name="operadoras">
+        <item>Qual a operadora de interesse para o local?</item>
+        <item>OI</item>
+        <item>TIM</item>
+        <item>VIVO</item>
+        <item>CLARO</item>
+    </string-array>
+
+    <string-array name="Coordenadas">
+        <item>findAll()</item>
+    </string-array>
+</resources>
